@@ -1,5 +1,7 @@
 # HabboAir
 
+Projects and automated tooling to modify the HabboAir application.
+
 Flash is dying and I am quitting. What better time to release all my hard work for you to create a bad Habbo mobile retro. Have fun.
 
 I have been sitting on this since August 2, 2018 and sometimes updated it to newer versions.
