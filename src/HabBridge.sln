@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Logger", "HabBrid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Logger.Air", "HabBridge.Logger.Air\HabBridge.Logger.Air.csproj", "{236DA335-1DB1-4426-B219-10A0C7CC055F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Api", "HabBridge.Api\HabBridge.Api.csproj", "{0CF09150-6236-4D58-B49D-F25B177B5F16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF09150-6236-4D58-B49D-F25B177B5F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF09150-6236-4D58-B49D-F25B177B5F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF09150-6236-4D58-B49D-F25B177B5F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF09150-6236-4D58-B49D-F25B177B5F16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FEA19B8B-C701-4D0C-A989-96ED433C0A6F} = {E2EB64E3-C225-4A28-83EC-47D789AC7335}

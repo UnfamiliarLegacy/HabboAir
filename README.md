@@ -21,6 +21,10 @@ Only listing the most important projects in this repository. The others are self
 
 This contains work on the iOS Habbo application version **2.21.0**. Dealing with native AVM2 code is pretty annoying thus this part is unfinished. I still decided to add it because it may help someone else.
 
+### src/HabBridge.Api
+
+This project contains the necessary HTTP API for the HabboAir application. It acts as a bridge between the HabboAir application and a configured habbo private server website. See `V1/Controllers` for all routes. It can (and does) support multiple hotels at the same time.
+
 ### src/HabBridge.Logger
 
 This project contains code from [iamdroppy/AirLogger](https://github.com/iamdroppy/AirLogger), which contains code from [ArachisH/Tanji](https://github.com/ArachisH/Tanji). It basically implements some stuff from the [Sulakore](https://github.com/ArachisH/Sulakore) library to proxy Habbo packets.
