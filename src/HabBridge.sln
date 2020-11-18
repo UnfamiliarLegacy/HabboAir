@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.SwfDeobfuscator", "HabBridge.SwfDeobfuscator\HabBridge.SwfDeobfuscator.csproj", "{69E8F034-BB16-4AB0-A620-027BFBC592B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "submodules", "submodules", "{E2EB64E3-C225-4A28-83EC-47D789AC7335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flazzy", "..\submodules\Flazzy\Flazzy\Flazzy.csproj", "{FEA19B8B-C701-4D0C-A989-96ED433C0A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabCrypto", "..\submodules\Habcrypto\src\HabCrypto\HabCrypto.csproj", "{C6FDF6B2-3278-4EAC-B83A-76807F98F918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sulakore", "..\submodules\Sulakore\Sulakore\Sulakore.csproj", "{BE305246-4C35-48C0-9358-4DEE45762883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.SwfLibraryDumper", "HabBridge.SwfLibraryDumper\HabBridge.SwfLibraryDumper.csproj", "{C287DA52-9FE3-4982-897A-F673B48FEBC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.SwfPatcher", "HabBridge.SwfPatcher\HabBridge.SwfPatcher.csproj", "{3ED96A5B-CE1E-4913-87B1-CF36BC1CD0E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Server", "HabBridge.Server\HabBridge.Server.csproj", "{1C4EA7A7-E607-400A-B726-C2780CAE5467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Hotels", "HabBridge.Hotels\HabBridge.Hotels.csproj", "{8DADF507-46D1-4BF9-AE57-3A23461AA30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Habbo.Shared", "HabBridge.Habbo.Shared\HabBridge.Habbo.Shared.csproj", "{7FAEDB99-5F74-4CE3-8220-286646D7C655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Logger", "HabBridge.Logger\HabBridge.Logger.csproj", "{9A0C007C-F494-43EA-95E3-06EAD2B7859D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabBridge.Logger.Air", "HabBridge.Logger.Air\HabBridge.Logger.Air.csproj", "{236DA335-1DB1-4426-B219-10A0C7CC055F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E8F034-BB16-4AB0-A620-027BFBC592B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E8F034-BB16-4AB0-A620-027BFBC592B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E8F034-BB16-4AB0-A620-027BFBC592B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E8F034-BB16-4AB0-A620-027BFBC592B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA19B8B-C701-4D0C-A989-96ED433C0A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA19B8B-C701-4D0C-A989-96ED433C0A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA19B8B-C701-4D0C-A989-96ED433C0A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA19B8B-C701-4D0C-A989-96ED433C0A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FDF6B2-3278-4EAC-B83A-76807F98F918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FDF6B2-3278-4EAC-B83A-76807F98F918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FDF6B2-3278-4EAC-B83A-76807F98F918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FDF6B2-3278-4EAC-B83A-76807F98F918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE305246-4C35-48C0-9358-4DEE45762883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE305246-4C35-48C0-9358-4DEE45762883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE305246-4C35-48C0-9358-4DEE45762883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE305246-4C35-48C0-9358-4DEE45762883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C287DA52-9FE3-4982-897A-F673B48FEBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C287DA52-9FE3-4982-897A-F673B48FEBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C287DA52-9FE3-4982-897A-F673B48FEBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C287DA52-9FE3-4982-897A-F673B48FEBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED96A5B-CE1E-4913-87B1-CF36BC1CD0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED96A5B-CE1E-4913-87B1-CF36BC1CD0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED96A5B-CE1E-4913-87B1-CF36BC1CD0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED96A5B-CE1E-4913-87B1-CF36BC1CD0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4EA7A7-E607-400A-B726-C2780CAE5467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4EA7A7-E607-400A-B726-C2780CAE5467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4EA7A7-E607-400A-B726-C2780CAE5467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4EA7A7-E607-400A-B726-C2780CAE5467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DADF507-46D1-4BF9-AE57-3A23461AA30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DADF507-46D1-4BF9-AE57-3A23461AA30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DADF507-46D1-4BF9-AE57-3A23461AA30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DADF507-46D1-4BF9-AE57-3A23461AA30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAEDB99-5F74-4CE3-8220-286646D7C655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAEDB99-5F74-4CE3-8220-286646D7C655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAEDB99-5F74-4CE3-8220-286646D7C655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAEDB99-5F74-4CE3-8220-286646D7C655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0C007C-F494-43EA-95E3-06EAD2B7859D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0C007C-F494-43EA-95E3-06EAD2B7859D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0C007C-F494-43EA-95E3-06EAD2B7859D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0C007C-F494-43EA-95E3-06EAD2B7859D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236DA335-1DB1-4426-B219-10A0C7CC055F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEA19B8B-C701-4D0C-A989-96ED433C0A6F} = {E2EB64E3-C225-4A28-83EC-47D789AC7335}
+		{C6FDF6B2-3278-4EAC-B83A-76807F98F918} = {E2EB64E3-C225-4A28-83EC-47D789AC7335}
+		{BE305246-4C35-48C0-9358-4DEE45762883} = {E2EB64E3-C225-4A28-83EC-47D789AC7335}
+	EndGlobalSection
+EndGlobal

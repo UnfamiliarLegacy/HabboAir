@@ -1,0 +1,59 @@
+#================ L I V E ========================#
+# THIS FILE WILL BE EMBEDDED WITH THE LIVE CLIENT #
+#    Be very careful with the content changes!    #
+#=================================================#
+
+#====== LIVE ENVIRONMENTS ======
+
+connection.info.name.local=Local
+connection.info.host.local=192.168.1.123
+connection.info.port.local=30000
+url.prefix.local=https://192.168.1.123:5443/v1/local
+pocket.api.local=https://192.168.1.123:5443/v1/local
+web.api.local=https://192.168.1.123:5443/v1/local
+web.terms_of_service.link.local=https://help.habbo.com/entries/23096348-Terms-of-Service-and-Privacy-Policy
+
+connection.info.name.en=Habbo.com (Logged)
+connection.info.host.en=192.168.1.123
+connection.info.port.en=30000
+url.prefix.en=http://www.habbo.com
+pocket.api.en=https://www.habbo.com
+web.api.en=https://www.habbo.com
+web.terms_of_service.link.en=https://help.habbo.com/entries/23096348-Terms-of-Service-and-Privacy-Policy
+
+connection.info.name.leet=Leet
+connection.info.host.leet=192.168.1.123
+connection.info.port.leet=30000
+url.prefix.leet=https://192.168.1.123:5443/v1/leet
+pocket.api.leet=https://192.168.1.123:5443/v1/leet
+web.api.leet=https://192.168.1.123:5443/v1/leet
+web.terms_of_service.link.leet=https://help.habbo.com/entries/23096348-Terms-of-Service-and-Privacy-Policy
+
+#======== CONFIGURATIONS ============
+use.sso=false
+
+comufy.enabled=false
+identityTracking.enabled=false
+processlog.enabled=false
+interstitial.enabled=false
+
+lagWarninglog.enabled=false
+monitor.garbage.collection=false
+performancetest.distribution.enabled=false
+
+hotelview.banner.url=${url.prefix}/gamedata/supersecret
+external.variables.txt=${url.prefix}/gamedata/external_variables/1
+
+#Text conf should be taken from external variables so that hash is correct (used for cache)
+external.texts.txt=${url.prefix}/gamedata/external_flash_texts/1
+
+client.fatal.error.url=${url.prefix}/flash_client_error
+client.connection.failed.url=${url.prefix}/client_connection_failed
+
+flash.dynamic.icon.download.name.template=%revision%/%typeid%%param%_icon.png
+
+# Making sure the live.environment.list is not tampered with between builds.
+configuration.readonly=false
+
+# Hotel list order (Sort on alphabet)
+live.environment.list=en/leet/local

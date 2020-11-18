@@ -1,0 +1,428 @@
+[Landing]
+LandingWidget=0
+LandingCommunityChallenge=0
+LandingPromos=0
+LandingReward=0
+SendCampaignBadge=0
+HotelViewCountdown=0
+HotelViewDailyquest=0
+HotelViewHallOfFame=0
+CompetitionEntrySubmitResult=0
+CompetitionVotingInfo=0
+
+[HabboBasicInfo]
+SubscriptionStatus=0
+UserClubRights=0
+EnableTrading=0
+MinimailCount=0
+UserProfile=0
+LoadVolume=0
+LoadWardrobe=0
+ReceiveBadge=0
+LoveLockDialogue=0
+LoveLockDialogueSetLocked=0
+LoveLockDialogueClose=0
+NewbieStatus=0
+IdentityAccounts=0
+
+[Navigator]
+FlatCategories=0
+OfficialRooms=0
+NavigatorListings=0
+FavouriteRoomsUpdate=0
+CanCreateRoom=0
+PopularRoomTags=0
+NavigatorNewFlatCategories=0
+NavigatorLiftedRoomsComposer=0
+NavigatorMetaDataComposer=0
+NavigatorSavedSearchesComposer=0
+NavigatorCategorys=0
+NewNavigatorSize=0
+TargetedOffer=0
+
+[Catalog]
+CatalogueIndex=0
+CataloguePage=0
+CatalogueClubPage=0
+CatalogOffer=0
+CatalogueOfferConfig=0
+PurchaseOK=0
+CatalogPurchaseNotAllowed=0
+CatalogLimitedItemSoldOut=0
+SellablePetBreeds=0
+ReloadEcotron=0
+GiftWrappingConfiguration=0
+RecyclerRewards=0
+CatalogPromotionGetRooms=0
+PublishShop=0
+RecyclingState=0
+GiftError=0
+RetrieveSongID=0
+JukeboxNowPlaying=0
+JukeboxPlaylist=0
+SongsLibrary=0
+Songs=0
+VoucherError=0
+VoucherValid=0
+CatalogPromotionGetCategories=0 // 92 (?)
+BuildersClubUpdateFurniCount=0
+
+[HabboInventory]
+LoadInventory=0
+UpdateInventory=0
+NewInventoryObject=0
+RemoveInventoryObject=0
+LoadBadgesWidget=0
+BotInventory=0
+PetInventory=0
+AddEffectToInventory=0
+ApplyEffect=0
+EnableEffect=0
+StopAvatarEffect=0
+
+[Rooms]
+InitialRoomInfo=0
+PrepareRoom=0
+SetRoomUser=0
+UpdateUserStatus=0
+RoomSpaces=0
+RoomChatOptions=0
+RoomError=0
+RoomData=0
+RoomEnterError=0
+RoomEvent=0
+RoomFloorItems=0
+RoomFloorWallLevels=0
+RoomGroup=0
+RoomOwnership=0
+LoadRoomRightsList=0
+RoomBannedList=0
+RoomSettingsData=0
+RoomLoadFilter=0
+RoomForward=0
+GroupRoom=0
+OnCreateRoomInfo=0
+RoomUpdate=0
+RoomWallItems=0
+Doorbell=0
+DoorbellNoOne=0
+DoorbellOpened=0
+RoomMuteStatus=0
+GetFloorPlanUsedCoords=0
+SetFloorPlanDoor=0
+RoomsQueue=0
+
+[UserRoom]
+SpectatorMode=0
+RoomUserAction=0
+RoomUserIdle=0
+OutOfRoom=0
+ApplyHanditem=0
+TypingStatus=0
+DanceStatus=0
+UpdateUserData=0
+UpdateUsername=0
+UserBadges=0
+UserLeftRoom=0
+UserTags=0
+Relationship=0
+FloodFilter=0
+NameChangedUpdates=0
+NotAcceptingRequests=0
+GiveRoomRights=0
+RemoveRights=0
+RoomUnbanUser=0
+GiveRespects=0
+UpdateAvatarAspect=0
+UserUpdateNameInRoom=0
+UserIsPlayingFreeze=0
+UpdateFreezeLives=0
+UpdateIgnoreStatus=0
+TradeAccept=0
+TradeClose=0
+TradeCompleted=0
+TradeConfirmation=0
+TradeStart=0
+TradeUpdate=0
+
+[RoomItems]
+AddFloorItem=0
+AddWallItem=0
+PickUpFloorItem=0
+PickUpWallItem=0
+DimmerData=0
+ItemAnimation=0
+UpdateFloorItemExtraData=0
+UpdateRoomItem=0
+UpdateRoomWallItem=0
+UpdateFurniStackMap=0
+UpdateTileStackMagicHeight=0
+LoadPostIt=0
+OpenGift=0
+YouTubeLoadPlaylists=0
+YouTubeLoadVideo=0
+RemovePetFromInventoryComposer=0
+
+[RoomWired]
+WiredRewardAlert=0
+SaveWired=0
+WiredCondition=0
+WiredEffect=0
+WiredTrigger=0
+
+[Bots]
+BotSpeechList=0
+PetInfo=0
+PetTrainerPanel=0
+AddPetExperience=0
+CheckPetName=0
+SerializePet=0
+RespectPet=0
+PetRespectNotification=0
+NotifyNewPetLevel=0
+SendMonsterplantId=0
+PetBreedError=0
+PetBreed=0
+PetBreedResultError=0
+PetBreedResult=0
+PlacePetError=0
+GeneralErrorHabbo=0
+
+[ModTools]
+LoadModerationTool=0
+ModerationActionResult=0
+ModerationToolIssueChatlog=0
+ModerationRoomTool=0
+ModerationTicketResponse=0
+ModerationToolIssue=0
+ModerationToolRoomVisits=0
+ModerationToolUpdateIssue=0
+ModerationToolUserChatlog=0
+ModerationToolUserTool=0
+ModerationToolRoomChatlog=0
+TicketUserAlert=0
+AlertNotification=0
+SuperNotification=0
+EpicPopup=0
+CustomUserNotification=0
+UsersClassification=0
+
+[Help]
+OpenBullyReport=0
+BullyReportSent=0
+OpenHelpTool=0
+HelperToolConfiguration=0
+OnGuideSessionStarted=0
+OnGuideSessionPartnerIsTyping=0
+OnGuideSessionMsg=0
+OnGuideSessionInvitedToGuideRoom=0
+OnGuideSessionAttached=0
+OnGuideSessionDetached=0
+OnGuideSessionError=0
+
+[Quests]
+AchievementList=0
+AchievementProgress=0
+UnlockAchievement=0
+QuestAborted=0
+QuestCompleted=0
+QuestList=0
+QuestStarted=0
+CitizenshipStatus=0
+TalentLevelUp=0
+TalentsTrack=0
+
+[Friends]
+ConsoleChatError=0
+ConsoleChat=0
+ConsoleInvitation=0
+ConsoleSearchFriend=0
+ConsoleSendFriendRequest=0
+LoadFriendsCategories=0
+FollowFriendError=0
+FriendUpdate=0
+FindMoreFriendsSuccess=0
+
+[Groups]
+ChangeFavouriteGroup=0
+FavouriteGroup=0
+GroupDataEdit=0
+GroupData=0
+GroupFurniturePage=0
+GroupMembers=0
+GroupPurchasePage=0
+GroupPurchaseParts=0
+GroupAreYouSure=0
+GroupConfirmLeave=0
+GroupRequestReload=0
+GroupForumListings=0
+GroupForumData=0
+GroupForumThreadRoot=0
+GroupForumThreadUpdate=0
+GroupForumNewThread=0
+GroupForumNewResponse=0
+GroupForumReadThread=0
+GroupDeleted=0
+
+[Games]
+GameCenterGamesList=0
+GameCenterGameAchievements=0
+GameCenterLeaderboard=0
+GameCenterLeaderboard2=0
+GameCenterGamesLeft=0
+GameCenterPreviousWinner=0
+GameCenterProducts=0
+GameCenterAllAchievements=0
+GameCenterEnterInGame=0
+GameCenterJoinGameQueue=0
+GameCenterLoadGameUrl=0
+
+[Polls]
+PollQuestions=0
+SuggestPoll=0
+MatchingPoll=0
+MatchingPollAnswered=0
+MatchingPollResult=0
+
+[Other]
+EnableNotifications=0
+NuxSuggestFreeGifts=0
+NuxListGifts=0
+SetCameraPrice=0
+GenericError=0
+InternalLink=0
+CameraStorageUrl=0
+CameraPurchaseOk=0
+ThumbnailSuccess=0
+
+[Bully]
+BullyRequestOpened=0
+BullyRequestChatlogs=0
+BullyRequestVotes=0
+BullyRequestResult=0
+
+// HabboAir definitions.
+
+[Handshake]
+InitCrypto=2945							// com.sulake.habbo.communication.messages.incoming.handshake.InitDiffieHandshakeEvent
+SecretKey=1313							// com.sulake.habbo.communication.messages.incoming.handshake.CompleteDiffieHandshakeEvent
+AuthenticationOk=1554					// com.sulake.habbo.communication.messages.incoming.handshake.???
+UniqueMachineId=340 					// com.sulake.habbo.communication.messages.incoming.handshake.UniqueMachineIDEvent
+DisconnectReason=4000					// com.sulake.habbo.communication.messages.incoming.handshake.DisconnectReasonEvent	
+UserObject=3871							// com.sulake.habbo.communication.messages.parser.handshake.UserObjectMessageParser
+UserRights=995							// com.sulake.habbo.communication.messages.parser.handshake.UserRightsMessageParser
+Ping=629                                // com.sulake.habbo.communication.messages.incoming.handshake._SafeStr_702
+
+[Availability]
+AvailabilityStatus=30					// com.sulake.habbo.communication.messages.parser.availability.AvailabilityStatusMessageParser
+
+[Catalog]
+BuildersClubSubscriptionStatus=131		// com.sulake.habbo.communication.messages.parser.catalog.BuildersClubSubscriptionStatusMessageParser
+BundleDiscountRuleset=1952				// com.sulake.habbo.communication.messages.parser.catalog.BundleDiscountRulesetMessageParser
+CatalogIndex=3027						// com.sulake.habbo.communication.messages.parser.catalog.CatalogIndexMessageParser
+CatalogPage=1857						// com.sulake.habbo.communication.messages.parser.catalog.CatalogPageMessageParser
+
+[CallForHelp]
+CfhTopicsInit=2692						// com.sulake.habbo.communication.messages.parser.callforhelp.CfhTopicsInitMessageParser
+
+[Competition]
+CurrentTimingCode=3667					// com.sulake.habbo.communication.messages.parser.competition.CurrentTimingCodeMessageParser
+
+[Friendlist]
+MessengerInit=1136						// com.sulake.habbo.communication.messages.parser.friendlist.MessengerInitMessageParser
+FriendRequests=1083						// com.sulake.habbo.communication.messages.parser.friendlist.FriendRequestsMessageParser
+FriendsListFragment=3194				// com.sulake.habbo.communication.messages.parser.friendlist.FriendsListFragmentMessageParser
+HabboSearchResult=435					// com.sulake.habbo.communication.messages.parser.friendlist.HabboSearchResultMessageParser
+NewFriendRequest=2881					// com.sulake.habbo.communication.messages.parser.friendlist.NewFriendRequestMessageParser
+FriendListUpdate=491					// com.sulake.habbo.communication.messages.parser.friendlist.FriendListUpdateMessageParser
+NewConsoleMessage=984					// com.sulake.habbo.communication.messages.parser.friendlist.NewConsoleMessageMessageParser
+
+[Inventory.Achievements]
+Achievement=947                         // com.sulake.habbo.communication.messages.parser.inventory.achievements.AchievementMessageParser
+AchievementPoints=1848					// com.sulake.habbo.communication.messages.parser.inventory.achievements.AchievementsScoreMessageParser
+
+[Inventory.AvatarEffect]
+AvatarEffects=3022                      // com.sulake.habbo.communication.messages.parser.inventory.avatareffect.AvatarEffectsMessageParser
+
+[Inventory.Badges]
+Badges=2882                             // com.sulake.habbo.communication.messages.parser.inventory.badges.BadgesParser
+BadgePointLimits=1604					// com.sulake.habbo.communication.messages.parser.inventory.badges.BadgePointLimitsParser
+
+[Inventory.Clothing]
+FigureSetIds=1950						// com.sulake.habbo.communication.messages.parser.inventory.clothing.FigureSetIdsMessageParser
+
+[Inventory.Purse]
+CreditsBalance=1609						// com.sulake.habbo.communication.messages.parser.inventory.purse.CreditBalanceParser
+
+[Navigator]
+UserFlatCats=1708						// com.sulake.habbo.communication.messages.parser.navigator.UserFlatCatsMessageParser
+GuestRoomSearchResult=672				// com.sulake.habbo.communication.messages.parser.navigator.GuestRoomSearchResultMessageParser
+Favourites=1678							// com.sulake.habbo.communication.messages.parser.navigator.FavouritesMessageParser
+FavouriteChanged=1929					// com.sulake.habbo.communication.messages.parser.navigator.FavouriteChangedMessageParser
+RoomRating=2496							// com.sulake.habbo.communication.messages.parser.navigator.RoomRatingMessageParser
+RoomEvent=2145							// com.sulake.habbo.communication.messages.parser.navigator.RoomEventMessageParser
+GetGuestRoomResult=2142					// com.sulake.habbo.communication.messages.parser.navigator.GetGuestRoomResultMessageParser
+NavigatorSettings=693					// com.sulake.habbo.communication.messages.parser.navigator.NavigatorSettingsMessageParser
+
+[Notifications]
+HabboBroadcast=733						// com.sulake.habbo.communication.messages.parser.notifications.HabboBroadcastMessageParser
+HabboActivityPointNotification=2861		// com.sulake.habbo.communication.messages.parser.notifications.HabboActivityPointNotificationMessageParser
+MOTDNotification=3048					// com.sulake.habbo.communication.messages.parser.notifications.MOTDNotificationParser
+ActivityPoints=467						// com.sulake.habbo.communication.messages.parser.notifications.ActivityPointsMessageParser
+
+[Perk]
+PerkAllowances=1693                     // com.sulake.habbo.communication.messages.parser.perk.PerkAllowancesMessageParser
+
+[Preferences]
+AccountPreferences=3786					// com.sulake.habbo.communication.messages.parser.preferences.AccountPreferencesParser
+
+[Quest]
+CommunityGoalHallOfFame=3371            // com.sulake.habbo.communication.messages.parser.quest.CommunityGoalHallOfFameMessageParser
+
+[RoomSettings]
+RoomSettingsData=2912					// com.sulake.habbo.communication.messages.parser.roomsettings.RoomSettingsDataMessageParser
+RoomSettingsSaved=441					// com.sulake.habbo.communication.messages.parser.roomsettings.RoomSettingsSavedMessageParser
+
+[Room.Action]
+Sleep=3071								// com.sulake.habbo.communication.messages.parser.room.action.SleepMessageParser
+AvatarEffect=1120  					    // com.sulake.habbo.communication.messages.parser.room.action.AvatarEffectMessageParser
+
+[Room.Chat]
+UserTyping=2502							// com.sulake.habbo.communication.messages.parser.room.chat.UserTypingMessageParser
+Chat=1160                               // com.sulake.habbo.communication.messages.parser.room.chat.ChatMessageParser
+Shout=3175                              // com.sulake.habbo.communication.messages.parser.room.chat.ChatMessageParser
+Whisper=1700                            // com.sulake.habbo.communication.messages.parser.room.chat.ChatMessageParser
+
+[Room.Engine]
+RoomProperty=1740						// com.sulake.habbo.communication.messages.parser.room.engine.RoomPropertyMessageParser
+HeightMap=841							// com.sulake.habbo.communication.messages.parser.room.engine.HeightMapMessageParser
+FloorHeightMap=1730						// com.sulake.habbo.communication.messages.parser.room.engine.FloorHeightMapMessageParser
+RoomEntryInfo=154						// com.sulake.habbo.communication.messages.parser.room.engine.RoomEntryInfoMessageParser
+FurnitureAliases=2402					// com.sulake.habbo.communication.messages.parser.room.engine.FurnitureAliasesMessageParser
+Users=1422								// com.sulake.habbo.communication.messages.parser.room.engine.UsersMessageParser
+UserUpdate=3609							// com.sulake.habbo.communication.messages.parser.room.engine.UserUpdateMessageParser
+UserChange=1997							// com.sulake.habbo.communication.messages.parser.room.engine.UserChangeMessageParser
+Objects=2995							// com.sulake.habbo.communication.messages.parser.room.engine.ObjectsMessageParser
+ObjectUpdate=949						// com.sulake.habbo.communication.messages.parser.room.engine.ObjectUpdateMessageParser
+Items=1983								// com.sulake.habbo.communication.messages.parser.room.engine.ItemsMessageParser
+RoomVisualizationSettings=3734			// com.sulake.habbo.communication.messages.parser.room.engine.RoomVisualizationSettingsParser
+UserRemove=3044							// com.sulake.habbo.communication.messages.parser.room.engine.UserRemoveMessageParser
+
+[Room.Permissions]
+YouAreOwner=480 						// com.sulake.habbo.communication.messages.parser.room.permissions.YouAreOwnerMessageParser
+YouAreController=3857    				// com.sulake.habbo.communication.messages.parser.room.permissions.YouAreControllerMessageParser
+YouAreNotController=3246				// com.sulake.habbo.communication.messages.parser.room.permissions.YouAreNotControllerMessageParser
+
+[Room.Session]
+OpenConnection=889						// com.sulake.habbo.communication.messages.parser.room.session.OpenConnectionMessageParser
+CloseConnection=1048                    // com.sulake.habbo.communication.messages.parser.room.session._SafeStr_865
+RoomReady=265							// com.sulake.habbo.communication.messages.parser.room.session.RoomReadyMessageParser
+
+[Tracking]
+LatencyPingResponse=1391				// com.sulake.habbo.communication.messages.parser.tracking.LatencyPingResponseMessageParser
+
+[Users]
+ExtendedProfile=2477					// com.sulake.habbo.communication.messages.parser.users.ExtendedProfileMessageParser
+HabboUserBadges=3846					// com.sulake.habbo.communication.messages.parser.users.HabboUserBadgesMessageParser
+RelationshipStatusInfo=1847				// com.sulake.habbo.communication.messages.parser.users.RelationshipStatusInfoMessageParser
+ScrSendUserInfo=2517					// com.sulake.habbo.communication.messages.parser.users.ScrSendUserInfoMessageParser

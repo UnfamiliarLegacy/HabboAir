@@ -1,0 +1,20 @@
+# AIR63_2019 incoming
+
+100  = com.sulake.habbo.communication.messages.outgoing.catalog._SafeStr_688
+277  = com.sulake.habbo.communication.messages.outgoing.catalog._SafeStr_457
+134  = com.sulake.habbo.communication.messages.outgoing.catalog._SafeStr_509
+3209 = com.sulake.habbo.communication.messages.outgoing.catalog._SafeStr_714
+158  = com.sulake.habbo.communication.messages.outgoing.navigator._SafeStr_711
+2767 = com.sulake.habbo.communication.messages.outgoing.users._SafeStr_882
+
+# AIR63_2019 outgoing
+
+
+
+# PRODUCTION_201701242205_837386174.incoming.txt
+
+
+# PRODUCTION_201701242205_837386174.outgoing.txt
+
+2963 = RoomUsersGuildBadgesComposer
+3268 = Avatar related??

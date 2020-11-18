@@ -1,0 +1,405 @@
+﻿[Landing]
+LandingRefreshPromos=0
+LandingRefreshReward=0
+SendBadgeCampaign=0
+LandingCommunityGoal=0
+HotelViewCountdown=0
+HotelViewDailyquest=0
+HotelViewRequestBadge=0
+GetHotelViewHallOfFame=0
+
+[HabboBasicInfo]
+GetCurrencyBalance=0
+GetSubscriptionData=0
+OnlineConfirmation=0
+UserGetVolumeSettings=0
+SaveClientSettings=0
+GetTalentsTrack=0
+LoadUserProfile=0
+RelationshipsGet=0
+SetRelationship=0
+GetUserTags=0
+OnDisconnect=0
+GoToHotelView=0
+UserUpdateLook=0
+UserUpdateMotto=0
+CheckUsername=0
+ChangeUsername=0
+Wardrobe=0
+WardrobeUpdate=0
+
+[Navigator]
+NavigatorGetEvents=0
+NavigatorGetFavouriteRooms=0
+NavigatorGetFeaturedRooms=0
+NavigatorGetFriendsRooms=0
+NavigatorGetHighRatedRooms=0
+NavigatorGetMyRooms=0
+NavigatorGetPopularRooms=0
+NavigatorGetPopularTags=0
+NavigatorGetRecentRooms=0
+NavigatorSearchRoomByName=0
+NavigatorGetRecommendedRooms=0
+NavigatorGetFlatCategories=0
+NavigatorGetPopularGroups=0
+NavigatorGetRoomsWithFriends=0
+NewNavigator=0
+SearchNewNavigatorEvent=0
+NewNavigatorAddSavedSearchEvent=0
+NewNavigatorDeleteSavedSearchEvent=0
+NewNavigatorResizeEvent=0
+NewNavigatorCollapseCategoryEvent=0
+NewNavigatorUncollapseCategoryEvent=0
+CanCreateRoom=0
+CreateRoom=0
+SetHomeRoom=0
+GoToRoomByName=0
+ToggleStaffPick=0
+
+[Catalog]
+GetCatalogIndex=0
+GetCatalogPage=0
+GetCatalogClubPage=0
+GetCatalogOffer=0
+CatalogueOfferConfig=0
+PurchaseFromCatalog=0
+PurchaseFromCatalogAsGift=0
+GetSellablePetBreeds=0
+ReloadRecycler=0
+GetGiftWrappingConfiguration=0
+GetRecyclerRewards=0
+CatalogPromotionGetRooms=0
+GetCatalogClubGifts=0
+ChooseClubGift=0
+PromoteRoom=0
+RetrieveSongID=0
+CheckPetname=0
+EcotronRecycle=0
+RedeemVoucher=0
+BuildersClubUpdateFurniCount=0
+PlaceBuildersFurniture=0
+PurchaseTargetedOffer=0
+
+[HabboInventory]
+LoadPetInventory=0
+LoadBotInventory=0
+LoadBadgeInventory=0
+LoadItemsInventory=0
+SetActivatedBadges=0
+EnableInventoryEffect=0
+EffectEnable=0
+
+[Rooms]
+EnterPrivateRoom=0
+RoomGetHeightmap=0
+RoomGetInfo=0
+RoomUserAction=0
+RoomDelete=0
+RoomEventUpdate=0
+RoomSettingsMuteAll=0
+RoomSettingsMuteUser=0
+RoomLoadByDoorbell=0
+DoorbellAnswer=0
+RoomGetFilter=0
+RoomAlterFilter=0
+GetRoomBannedUsers=0
+GetRoomRightsList=0
+RoomRemoveAllRights=0
+RoomRemoveUserRights=0
+GetFloorPlanFurniture=0
+GetFloorPlanDoor=0
+SaveFloorPlanEditor=0
+SaveRoomThumbnail=0
+SetInvitationsPreference=0
+SubmitRoomToCompetition=0
+VoteForRoom=0
+
+[UserRoom]
+UserWalk=0
+UserDance=0
+UserSign=0
+RoomBanUser=0
+RoomUnbanUser=0
+RoomKickUser=0
+RateRoom=0
+DropHanditem=0
+GiveHanditem=0
+GiveRespect=0
+GiveRights=0
+StartTyping=0
+StopTyping=0
+IgnoreUser=0
+UnignoreUser=0
+LookAtUser=0
+TradeAccept=0
+TradeAddItemOffer=0
+TradeCancel=0
+TradeConfirm=0
+TradeDiscard=0
+TradeRemoveItem=0
+TradeStart=0
+TradeUnaccept=0
+SetChatPreference=0
+
+[RoomItems]
+ToggleSitting=0
+RoomAddFloorItem=0
+PlaceBuildersWallItem=0
+FloorItemMove=0
+WallItemMove=0
+TriggerDiceClose=0
+TriggerDiceRoll=0
+TriggerItem=0
+TriggerMoodlight=0
+TriggerWallItem=0
+EnterOneWayDoor=0
+UpdateMoodlight=0
+OpenPostIt=0
+RoomAddPostIt=0
+SavePostIt=0
+UseHabboWheel=0
+ActivateMoodlight=0
+RoomApplySpace=0
+SaveFootballGateOutfit=0
+YouTubeChoosePlaylistVideo=0
+YouTubeGetPlayer=0
+YouTubeGetPlaylistGet=0
+TileStackMagicSetHeight=0
+SaveRoomBackgroundToner=0
+SaveRoomBranding=0
+MannequinSaveData=0
+MannequinUpdateData=0
+LoadJukeboxDiscs=0
+JukeboxAddPlaylistItem=0
+JukeboxRemoveSong=0
+GetJukeboxPlaylists=0
+GetMusicData=0
+OpenGift=0
+ReedemExchangeItem=0
+RemovePostIt=0
+ConfirmLoveLock=0
+UsePurchasableClothing=0
+
+[RoomWired]
+WiredSaveCondition=0
+WiredSaveEffect=0
+WiredSaveMatching=0
+WiredSaveTrigger=0
+
+[Bots]
+BotActions=0
+BotSpeechList=0
+PlaceBot=0
+PlacePet=0
+MovePet=0
+PickUpBot=0
+PickUpItem=0
+PickUpPet=0
+HorseAddSaddle=0
+HorseAllowAllRide=0
+HorseMountOn=0
+HorseRemoveSaddle=0
+GetPetTrainerPanel=0
+PetGetInformation=0
+RespectPet=0
+PetBreedResult=0
+PetBreedCancel=0
+CompostMonsterplant=0
+
+[ModTools]
+ModerationToolUserTool=0
+ModerationToolRoomChatlog=0
+ModerationToolRoomTool=0
+ModerationBanUser=0
+ModerationKickUser=0
+ModerationMuteUser=0
+ModerationLockTrade=0
+ModerationToolCloseIssue=0
+ModerationToolGetRoomVisits=0
+ModerationToolPerformRoomAction=0
+ModerationToolPickIssue=0
+ModerationToolReleaseIssue=0
+ModerationToolSendRoomAlert=0
+ModerationToolSendUserAlert=0
+ModerationToolSendUserCaution=0
+ModerationToolUserChatlog=0
+ModerationToolIssueChatlog=0
+ModerationToolIssueChatlogRefresh=0
+AmbassadorAlert=0
+GetUCPanel=0
+GetUCPanelHotel=0
+DeleteHelpTicket=0
+
+[Help]
+SubmitHelpTicket=0
+OpenBullyReporting=0
+SendBullyReport=0
+OpenHelpTool=0
+OnGuideSessionDetached=0
+GetHelperToolConfiguration=0
+OnGuide=0
+GuideToolMessageNew=0
+GuideInviteToRoom=0
+VisitRoomGuides=0
+GuideEndSession=0
+CancellInviteGuide=0
+
+[Quests]
+OpenQuests=0
+LoadNextQuest=0
+QuestCancel=0
+QuestSeasonalStart=0
+QuestStart=0
+OpenAchievementsBox=0
+CompleteSafetyQuiz=0
+
+[Friends]
+ConsoleInviteFriends=0
+ConsoleSearchFriends=0					
+FollowFriend=0
+FriendListUpdate=0
+FriendRequestListLoad=0
+DeleteFriend=0
+GetMyFriends=0
+FindMoreFriends=0
+
+[Groups]
+GetGroupForums=0
+GetGroupForumData=0
+GetGroupForumThreadRoot=0
+UpdateThread=0
+UpdateForumSettings=0
+AlterForumThreadState=0
+PublishForumThread=0
+ReadForumThread=0
+RequestLeaveGroup=0
+ConfirmLeaveGroup=0
+AcceptGroupRequest=0
+CreateGuild=0
+GetGroupFurniture=0
+GetGroupInfo=0
+GetGroupMembers=0
+GetGroupPurchaseBox=0
+GetGroupPurchasingInfo=0
+GroupDeclineMembershipRequest=0
+GroupMakeAdministrator=0
+GroupManage=0
+GroupUpdateBadge=0
+GroupUpdateColours=0
+GroupUpdateName=0
+GroupUpdateSettings=0
+GroupUserJoin=0
+SetFavoriteGroup=0
+RemoveFavouriteGroup=0
+RemoveGroupAdmin=0
+DeleteGroup=0
+
+[Games]
+GameCenterLoadGame=0
+GameCenterJoinQueue=0
+ClickGames=0
+
+[Polls]
+AcceptPoll=0
+RefusePoll=0
+AnswerPollQuestion=0
+
+[Other]
+RetrieveCitizenshipStatus=0
+NuxAcceptGifts=0
+NuxReceiveGifts=0
+
+[Camera]
+HabboCamera=0
+HabboCameraPublishPhoto=0
+GetCameraRequest=0
+GetCameraPrice=0
+
+[Bully]
+BullyRequestAccept=0
+BullyRequestVote=0
+BullyRequestNoVote=0
+
+// HabboAir definitions.
+
+[Handshake]
+ReleaseVersion=4000                     // com.sulake.habbo.communication.messages.outgoing.handshake.ClientHelloMessageComposer
+InitCrypto=1032                         // com.sulake.habbo.communication.messages.outgoing.handshake._SafeStr_484
+GenerateSecretKey=2125                  // com.sulake.habbo.communication.messages.outgoing.handshake.CompleteDiffieHandshakeMessageComposer
+SwfData=2217					        // com.sulake.habbo.communication.messages.outgoing.handshake.VersionCheckMessageComposer
+UniqueId=2363					        // com.sulake.habbo.communication.messages.outgoing.handshake.UniqueIDMessageComposer
+SsoTicket=2903					        // com.sulake.habbo.communication.messages.outgoing.handshake.SSOTicketMessageComposer
+InfoRetrieve=2077                       // com.sulake.habbo.communication.messages.outgoing.handshake._SafeStr_461
+Pong=2248                               // com.sulake.habbo.communication.messages.outgoing.handshake._SafeStr_738
+
+[Catalog]
+GetBundleDiscountRuleset=358			// com.sulake.habbo.communication.messages.outgoing.catalog.??
+GetCatalogIndex=1425					// com.sulake.habbo.communication.messages.outgoing.catalog.GetCatalogIndexComposer
+GetCatalogPage=821						// com.sulake.habbo.communication.messages.outgoing.catalog.GetCatalogPageComposer
+PurchaseFromCatalog=2749				// com.sulake.habbo.communication.messages.outgoing.catalog.PurchaseFromCatalogComposer
+PurchaseFromCatalogAsGift=2400			// com.sulake.habbo.communication.messages.outgoing.catalog.PurchaseFromCatalogAsGiftComposer
+BuildersClubFurniCount=484              // com.sulake.habbo.communication.messages.outgoing.catalog._SafeStr_724
+
+[Competition]
+GetCurrentTimingCode=1758				// com.sulake.habbo.communication.messages.outgoing.competition.GetCurrentTimingCodeMessageComposer
+RoomCompetitionInit=2615                // com.sulake.habbo.communication.messages.outgoing.competition
+
+[Friendlist]
+MessengerInit=151						// com.sulake.habbo.communication.messages.outgoing.friendlist.??
+GetFriendRequests=3920					// com.sulake.habbo.communication.messages.outgoing.friendlist.??
+HabboSearch=2450						// com.sulake.habbo.communication.messages.outgoing.friendlist.HabboSearchMessageComposer
+RequestFriend=1856						// com.sulake.habbo.communication.messages.outgoing.friendlist.RequestFriendMessageComposer
+DeclineFriend=2669						// com.sulake.habbo.communication.messages.outgoing.friendlist.DeclineFriendMessageComposer
+AcceptFriend=2763						// com.sulake.habbo.communication.messages.outgoing.friendlist.AcceptFriendMessageComposer
+SendMsg=50								// com.sulake.habbo.communication.messages.outgoing.friendlist.SendMsgMessageComposer
+
+[Inventory.Badges]
+GetBadgePointLimits=2795				// com.sulake.habbo.communication.messages.outgoing.inventory.badges.??
+
+[Inventory.Purse]
+GetCreditsInfo=592						// com.sulake.core.communication.messages._SafeStr_87
+
+[Navigator]
+GetUserFlatCats=3944					// com.sulake.habbo.communication.messages.outgoing.navigator.GetUserFlatCatsMessageComposer
+GetGuestRoom=2761						// com.sulake.habbo.communication.messages.outgoing.navigator.GetGuestRoomMessageComposer
+MyRoomsSearch=3983						// com.sulake.habbo.communication.messages.outgoing.navigator.MyRoomsSearchMessageComposer
+MyFavouriteRoomsSearch=876				// com.sulake.habbo.communication.messages.outgoing.navigator.MyFavouriteRoomsSearchMessageComposer
+MyRoomHistorySearch=946					// com.sulake.habbo.communication.messages.outgoing.navigator.MyRoomHistorySearchMessageComposer
+PopularRoomsSearch=2413					// com.sulake.habbo.communication.messages.outgoing.navigator.PopularRoomsSearchMessageComposer
+RoomsWithHighestScoreSearch=589			// com.sulake.habbo.communication.messages.outgoing.navigator.RoomsWithHighestScoreSearchMessageComposer
+RoomAdSearch=346						// com.sulake.habbo.communication.messages.outgoing.navigator.RoomAdSearchMessageComposer
+GetOfficialRooms=3747					// com.sulake.habbo.communication.messages.outgoing.navigator.GetOfficialRoomsMessageComposer
+AddFavouriteRoom=3939					// com.sulake.habbo.communication.messages.outgoing.navigator.AddFavouriteRoomMessageComposer
+DeleteFavouriteRoom=1317				// com.sulake.habbo.communication.messages.outgoing.navigator.DeleteFavouriteRoomMessageComposer
+UpdateHomeRoom=939						// com.sulake.habbo.communication.messages.outgoing.navigator.UpdateHomeRoomMessageComposer
+
+[RoomSettings]
+GetRoomSettings=251						// com.sulake.habbo.communication.messages.outgoing.roomsettings.GetRoomSettingsMessageComposer
+SaveRoomSettings=3615					// com.sulake.habbo.communication.messages.outgoing.roomsettings.SaveRoomSettingsMessageComposer
+
+[Room.Chat]
+TypingStart=2277						// com.sulake.habbo.communication.messages.outgoing.room.chat._SafeStr_775
+TypingStop=416							// com.sulake.habbo.communication.messages.outgoing.room.chat._SafeStr_1170
+Chat=689                                // com.sulake.habbo.communication.messages.outgoing.room.chat.ChatMessageComposer
+Shout=1966                              // com.sulake.habbo.communication.messages.outgoing.room.chat.ShoutMessageComposer
+Whisper=2489                            // com.sulake.habbo.communication.messages.outgoing.room.chat.WhisperMessageComposer
+
+[Room.Engine]
+GetRoomEntryData=3557					// com.sulake.habbo.communication.messages.outgoing.room.engine._SafeStr_698
+GetFurnitureAliases=3698				// com.sulake.habbo.communication.messages.outgoing.room.engine._SafeStr_421
+MoveAvatar=1770							// com.sulake.habbo.communication.messages.outgoing.room.engine.MoveAvatarMessageComposer
+
+[Room.Session]
+OpenFlatConnection=2310					// com.sulake.habbo.communication.messages.outgoing.room.session.OpenFlatConnectionMessageComposer
+
+[Users]
+GetExtendedProfile=3010					// com.sulake.habbo.communication.messages.outgoing.users.GetExtendedProfileMessageComposer
+GetSelectedBadges=1212					// com.sulake.habbo.communication.messages.outgoing.users.GetSelectedBadgesMessageComposer
+GetRelationshipStatusInfo=644			// com.sulake.habbo.communication.messages.outgoing.users.GetRelationshipStatusInfoMessageComposer
+ScrGetUserInfo=2612						// com.sulake.habbo.communication.messages.outgoing.users.ScrGetUserInfoMessageComposer
+GetIgnoredUsers=2526                    // com.sulake.habbo.communication.messages.outgoing.users.GetIgnoredUsersMessageComposer
+
+[Tracking]
+LatencyPingRequest=842                  // com.sulake.habbo.communication.messages.outgoing.tracking.LatencyPingRequestMessageComposer
+LatencyPingReport=1872					// com.sulake.habbo.communication.messages.outgoing.tracking.LatencyPingReportMessageComposer
+EventLog=2879							// com.sulake.habbo.communication.messages.outgoing.tracking.EventLogMessageComposer

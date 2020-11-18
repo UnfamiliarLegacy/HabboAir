@@ -1,0 +1,17 @@
+Some stuff you should know before touching this code base.
+
+Packets are defined like this:
+
+	HabboAir	=>	HabBridge (Incoming)	=>		Emulator
+	Emulator	=>	HabBridge (Outgoing)	=>		HabboAir
+
+Navigator translation:
+	
+	Type	PlusEmu												HabBridge
+
+	In		NewNavigatorSearchEvent					=>			MyRoomsSearch
+	In		NewNavigatorSearchEvent					=>			MyFavouriteRoomsSearch
+	In		NewNavigatorSearchEvent					=>			MyRoomHistorySearch
+	In		NewNavigatorSearchEvent					=>			PopularRoomsSearch
+
+	Out		NavigatorSearchResultSetComposer		=>			GuestRoomSearchResult
