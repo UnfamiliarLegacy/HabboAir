@@ -39,6 +39,16 @@ This project is so dumb it works. Code might be messy since I always looked at i
 
 Ideally you should add support for multiple revisions to your emulator.
 
+Tested versions:
+- AIR63-201708251331-359388093
+- AIR63-201805250931-867387450
+- AIR63-201911271159-623255659
+
+Tested target versions:
+- PRODUCTION-201607262204-86871104
+- PRODUCTION-201704051204-452050219
+- PRODUCTION-201701242205-837386173
+
 ### src/HabBridge.SwfDeobfuscator
 
 Takes advantage of a mistake (?) done by SecureSWF to deobfuscate a lot of class names. This makes it way easier to look at the `HabboTablet.swf` in a decompiler such as [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler).
